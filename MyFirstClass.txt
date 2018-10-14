@@ -2,6 +2,6 @@ print("Sample Text...")
 print("text2...")
 //comment
 //comment 2
-print("hello my girlfrend!")
-print("hello my frend!")
-print("hello my cat!")
+print("hello my girlfrend...")
+print("hello my frend...")
+print("hello my cat...")
