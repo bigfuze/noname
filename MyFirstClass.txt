@@ -1,5 +1,5 @@
-print("Sample Text")
-print("text2")
+print("Sample Text...")
+print("text2...")
 //comment
 //comment 2
 end.
